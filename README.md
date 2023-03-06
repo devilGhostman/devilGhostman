@@ -18,6 +18,7 @@
 <br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=devilghostman&label=Profile%20views&color=0e75b6&style=flat" alt="devilghostman"/> 
+<img src="https://img.shields.io/github/stars/devilghostman.svg" alt="devilghostman"/>
 </div>
 
 
@@ -106,7 +107,7 @@
 
 <h2>📊 Statistics  :  </h2>  
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=devilghostman&show_icons=true&theme=tokyonight&hide_border=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilghostman&theme=tokyonight&hide_border=false"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=devilghostman&show_icons=true&theme=tokyonight&hide_border=false" style="height: 240px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devilghostman&show_icons=true&locale=en&theme=tokyonight&hide_border=false" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=devilghostman&theme=tokyonight&hide_border=false"/>-->
 </div>
