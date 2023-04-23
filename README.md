@@ -33,7 +33,7 @@
    <a href="https://leetcode.com/kumrahul2412/" target="_blank">
     <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=leetcode style="margin-bottom: 5px;" />
   </a>
-  <a href="https://twitter.com/kumrahul1999" target="_blank">
+  <a href="" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
     <a href="https://www.reddit.com/user/devilghost1" target="_blank">
@@ -61,6 +61,7 @@
 <br/>
 <div align="center">
   <h3 align="center">Backend</h3> 
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" align="center" alt="prisma"/> 
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
   <img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
