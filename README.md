@@ -6,7 +6,7 @@
 
 - ⭐ Looking forward to start my professional career as a Software Engineer
 - 🔭 I’m currently working on **Play Pause** 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **React,JavaScript**
 - 🚀 Love to talk about Research and Innovation!
 - In short🍺, I love to work on new technologies. ❤️
@@ -78,6 +78,7 @@
 <br/>
 <div align="center">
   <h3 align="center">Tools</h3> 
+    <img src="https://img.shields.io/badge/-Docker-311701?style=for-the-badge&color=000000&logo=docker&logoColor=74c7ec" align="center" alt="docker"/>
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
